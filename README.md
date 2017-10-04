@@ -1,7 +1,7 @@
 # IsaCalc
 Projeto Calculadora TFT Arduino
 
-Este projeto é de uma calculadora feita com arduino e um display touchscreen de 2.4'.
+Este projeto é de uma calculadora feita para a Isabela Olsemann com arduino e um display touchscreen de 2.4'.
 
 O código está funcional, porém ainda tem algum bugs.
 
